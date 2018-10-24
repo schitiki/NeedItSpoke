@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description>Get the value of an application property.</description>
+        <label_cache>[{"name":"{{action.ah_property}}","label":"action➛Property","type":"action","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].p}}","label":"step➛Look up System Property➛p","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].pr}}","label":"step➛Look up System Property➛pr","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].pro}}","label":"step➛Look up System Property➛pro","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].prop}}","label":"step➛Look up System Property➛prop","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].prope}}","label":"step➛Look up System Property➛prope","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].proper}}","label":"step➛Look up System Property➛proper","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].propert}}","label":"step➛Look up System Property➛propert","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property}}","label":"step➛Look up System Property➛property","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_}}","label":"step➛Look up System Property➛property_","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_v}}","label":"step➛Look up System Property➛property_v","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_va}}","label":"step➛Look up System Property➛property_va","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_val}}","label":"step➛Look up System Property➛property_val","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_valu}}","label":"step➛Look up System Property➛property_valu","type":"step","ref":""},{"name":"{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_value}}","label":"step➛Look up System Property➛property_value","type":"step","ref":""}]</label_cache>
+        <latest_snapshot display_value="Get Property">e2c959bb4f8d230088ee44b18110c749</latest_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 09:14:44</sys_created_on>
+        <sys_id>6c1255f34f8d230088ee44b18110c7cb</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_236524_needit_sp">78b155f34f8d230088ee44b18110c7c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">78b155f34f8d230088ee44b18110c7c7</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_6c1255f34f8d230088ee44b18110c7cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 09:48:27</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c1255f34f8d230088ee44b18110c7cb"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6c1255f34f8d230088ee44b18110c7cb"/>
+    <sys_element_mapping action="delete_multiple" query="id=6c1255f34f8d230088ee44b18110c7cb"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>property_value</field>
+        <id>6c1255f34f8d230088ee44b18110c7cb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 09:43:09</sys_created_on>
+        <sys_id>09985d7b4f8d230088ee44b18110c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 09:43:09</sys_updated_on>
+        <table>var__m_sys_hub_action_output_6c1255f34f8d230088ee44b18110c7cb</table>
+        <value>{{step[79d79a1d-050e-46a9-b17d-ecb21180cd75].property_value}}</value>
+    </sys_element_mapping>
+</record_update>

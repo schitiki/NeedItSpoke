@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ah_property" label="ah_property" language="en" table="var__m_sys_hub_action_input_6c1255f34f8d230088ee44b18110c7cb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ah_property</element>
+            <help/>
+            <hint/>
+            <label>ah_property</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_6c1255f34f8d230088ee44b18110c7cb</name>
+            <plural>ah_property</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 09:43:09</sys_created_on>
+            <sys_id>bc985d7b4f8d230088ee44b18110c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ah_property</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_236524_needit_sp">78b155f34f8d230088ee44b18110c7c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">78b155f34f8d230088ee44b18110c7c7</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_6c1255f34f8d230088ee44b18110c7cb_ah_property_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 09:43:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
